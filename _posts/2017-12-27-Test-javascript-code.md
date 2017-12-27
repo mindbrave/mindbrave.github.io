@@ -2,7 +2,7 @@
 layout: post
 title: Test javascript code
 tags: [javascript, tdd]
-fullview: false
+fullview: true
 ---
 
 Nice test in javascript
@@ -27,24 +27,3 @@ Nice test in javascript
 
 
 Super cool!
-
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-Lorem ipsum dolor.
-
