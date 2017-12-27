@@ -5,6 +5,7 @@ paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
 disqus: mindbrave
+gravatar: quetzacotll@gmail.com
 google_analytics: UA-111664723-1
 title: Mindbrave
 
@@ -22,6 +23,7 @@ author:
   github: mindbrave
   twitter: quetzakubica
   bio: Software craftmanship enthusiast
+  email_md5: 15531b6dca8b86f3c21db443150901fa
 
 rss_path: feed.xml
 categories_path: categories.html
