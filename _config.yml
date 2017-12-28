@@ -16,13 +16,13 @@ defaults:
     values:
       title: Mindbrave
 
-description: Software craftmanship
+description: Software craftmanship.
 author:
   name: Rafał Łużyński
   email: rafalluzynski0@gmail.com
   github: mindbrave
   twitter: quetzakubica
-  bio: Software craftmanship enthusiast
+  bio: My mind rebels at stagnation.
   email_md5: 15531b6dca8b86f3c21db443150901fa
 
 rss_path: feed.xml
