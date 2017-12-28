@@ -3,6 +3,7 @@ layout: post
 title: First entry. "Extreme programming explained" and why it took me so long.
 tags: [extreme-programming, soft-skills]
 fullview: false
+comments: true
 ---
 
 I was thinking about creating this blog for few years now.
