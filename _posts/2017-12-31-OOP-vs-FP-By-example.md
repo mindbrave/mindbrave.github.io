@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOP vs FP. Implementing "Pong" game.
+title: OOP vs FP: By example.
 tags: [object-oriented-programming, functional-programming, tdd, ddd]
 fullview: false
 comments: true
